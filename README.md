@@ -1,7 +1,7 @@
 # VehicleRent
 With the cost of owning vehicles rising and the increasing availability of taxi
 services, many people in the modern day and age choose not to own a vehicle.
-However, the need for a personal vehicle could arise from time to time. A car
+However,the need for a personal vehicle could arise from time to time. A car
 rental service could fulfill this need by renting out a car for a specific time period.
 The car rental service would hand over the car to the renter upon the payment of a
 deposit. The user’s information will have to be recorded by the renting agency. The
