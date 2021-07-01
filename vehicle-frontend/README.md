@@ -40,7 +40,7 @@ $ ng serve
 $ ng build
 ```
 
-## What's included
+## What is included
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
