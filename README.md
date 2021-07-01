@@ -32,15 +32,13 @@ Update guide - see: [https://update.angular.io](https://update.angular.io)
 
 ## Installation
 
-### Clone repo
+### Usage
 
 ``` bash
 
 # go into app's directory
 $ cd VehicleRent main
 
-
-### Usage
 
 # vehicle-rent-api-update
 ``` bash
