@@ -1,0 +1,25 @@
+// If you want to override variables do it here
+@import "variables";
+// Import styles
+@import "~@coreui/coreui/scss/coreui";
+// If you want to add something do it here
+@import "custom";
+
+@media screen and (max-width: 380px) {
+    .card-body-no-margin {
+        padding: 0 !important;
+    }
+}
+.btn {
+    font-size: 12px !important;
+}
+.form-control {
+    font-size: 12px !important;
+}
+body {
+    font-size: 12px !important;  
+}
+.nav-tabs .nav-link.active {
+    background: #c8ced3a8 !important;
+    font-weight: bold !important;
+}

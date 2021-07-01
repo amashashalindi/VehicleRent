@@ -1,0 +1,56 @@
+.modal .modal-dialog {
+    position: relative;
+    top: 10%;
+    transform: translateY(-10%);
+}
+
+ngx-loading-bar {
+    z-index: 9999;
+    #loading-bar-spinner {
+        .spinner-icon {
+            display: none !important;
+        }
+    }
+    #loading-bar {
+        .bar {
+            height: 5px;
+        }
+    }
+}
+
+.sort-by-asc {
+    left: 3px;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border: solid 3px transparent;
+    background: transparent;
+    border-bottom: solid 5px black;
+    border-top-width: 0;
+    margin-bottom: 2px;
+}
+
+.sort-by-desc {
+    left: 3px;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border: solid 3px transparent;
+    background: transparent;
+    border-top: solid 5px black;
+    border-bottom-width: 0;
+    margin-bottom: 2px;
+}
+
+.t-header {
+    cursor: pointer;
+}
+
+#custom-link {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#custom-link:hover {
+    text-decoration: underline;
+}
