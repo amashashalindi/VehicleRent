@@ -39,7 +39,9 @@ Update guide - see: [https://update.angular.io](https://update.angular.io)
 # go into app's directory
 $ cd VehicleRent main
 
-## Usage
+
+### Usage
+
 # vehicle-rent-api-update
 ``` bash
 $ npm i
