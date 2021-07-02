@@ -1,5 +1,5 @@
 # VehicleRent
-Refer the link to watch the demo - https://youtu.be/0ogpnWwqskE
+Refer the link to watch how this code is working - https://youtu.be/0ogpnWwqskE
 
 With the cost of owning vehicles rising and the increasing availability of taxi
 services, many people in the modern day and age choose not to own a vehicle.
